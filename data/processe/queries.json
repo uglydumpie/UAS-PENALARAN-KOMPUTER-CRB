@@ -1,0 +1,22 @@
+[
+  {
+    "query_id": "q1",
+    "query": "Penggugat minta pembatalan jual beli"
+  },
+  {
+    "query_id": "q2",
+    "query": "Tergugat tidak membayar sesuai kontrak"
+  },
+  {
+    "query_id": "q3",
+    "query": "Gugatan wanprestasi"
+  },
+  {
+    "query_id": "q4",
+    "query": "Perbuatan melawan hukum"
+  },
+  {
+    "query_id": "q5",
+    "query": "Kontrak dibatalkan sepihak"
+  }
+]
